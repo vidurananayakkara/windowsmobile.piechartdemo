@@ -1,10 +1,12 @@
-﻿<xapCache source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\Bin\Debug\WPChartDemo_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="16/11/2014 4:03:01 PM">
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\obj\Debug\WPChartDemo.dll" archivePath="WPChartDemo.dll" lastWriteTime="16/11/2014 4:02:59 PM" />
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="21/02/2012 10:45:58 PM" />
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\System.Windows.Controls.DataVisualization.Toolkit.dll" archivePath="System.Windows.Controls.DataVisualization.Toolkit.dll" lastWriteTime="22/02/2012 7:34:18 PM" />
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="22/02/2012 7:34:50 PM" />
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="16/11/2014 12:51:31 PM" />
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="21/02/2012 10:45:58 PM" />
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="21/02/2012 10:45:58 PM" />
-  <file source="E:\My Documents\Downloads\WPChartDemo\WPChartDemo\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="16/11/2014 12:51:32 PM" />
+﻿<xapCache source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\WPChartDemo_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="16/11/2014 5:34:39 PM">
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\WPChartDemo.dll" archivePath="WPChartDemo.dll" lastWriteTime="16/11/2014 5:34:36 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="16/11/2014 5:27:18 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\System.Windows.Controls.DataVisualization.Toolkit.dll" archivePath="System.Windows.Controls.DataVisualization.Toolkit.dll" lastWriteTime="16/11/2014 5:27:18 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="16/11/2014 5:27:18 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="16/11/2014 5:34:38 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="16/11/2014 5:27:18 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="16/11/2014 5:27:18 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="16/11/2014 5:27:18 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Background.png" archivePath="Background.png" lastWriteTime="16/11/2014 5:27:18 PM" />
+  <file source="C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="16/11/2014 5:27:18 PM" />
 </xapCache>

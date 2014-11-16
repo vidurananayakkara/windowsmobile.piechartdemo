@@ -101,14 +101,17 @@
     <Reference Include="System.Windows.Controls.DataVisualization.Toolkit, Version=2.0.5.0, Culture=neutral, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\SharedAssemblyInfo.cs">
+      <Link>Properties\SharedAssemblyInfo.cs</Link>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Model.cs" />
-    <Compile Include="ModelViewModel.cs" />
+    <Compile Include="Models\Model.cs" />
+    <Compile Include="ViewModels\ModelViewModel.cs" />
     <Compile Include="PieSeriesChart.xaml.cs">
       <DependentUpon>PieSeriesChart.xaml</DependentUpon>
     </Compile>

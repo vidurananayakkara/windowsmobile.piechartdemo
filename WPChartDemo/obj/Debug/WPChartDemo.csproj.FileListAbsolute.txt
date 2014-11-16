@@ -15,3 +15,20 @@ E:\My Documents\Downloads\WPChartDemo\WPChartDemo\obj\Debug\WPChartDemo.g.resour
 E:\My Documents\Downloads\WPChartDemo\WPChartDemo\obj\Debug\WPChartDemo.dll
 E:\My Documents\Downloads\WPChartDemo\WPChartDemo\obj\Debug\WPChartDemo.pdb
 E:\My Documents\Downloads\WPChartDemo\WPChartDemo\obj\Debug\XapCacheFile.xml
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\WPChartDemo.csprojResolveAssemblyReference.cache
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\App.g.cs
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\MainPage.g.cs
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\PieSeriesChart.g.cs
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\WPChartDemo.g.resources
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\WPChartDemo.dll
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\ApplicationIcon.png
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\Background.png
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\System.Windows.Controls.dll
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\WPChartDemo.dll
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\WPChartDemo.pdb
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\AppManifest.xaml
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\Bin\Debug\WPChartDemo_Debug_AnyCPU.xap
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\WPChartDemo.pdb
+C:\Users\Vidura\Desktop\GitHub\windowsmobile.piechartdemo\WPChartDemo\obj\Debug\XapCacheFile.xml
